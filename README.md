@@ -8,7 +8,7 @@ Sample website for CIHS Robotics Technology Class
 ###### Heading 6
 
 
-[NRP]https://en.wikipedia.org/wiki/Hollow_Knight
+[Hollow Knight Game](https://en.wikipedia.org/wiki/Hollow_Knight)
 <img src="https://cdn.shopify.com/s/files/1/0839/2139/products/5D4C679F-1DF9-4C7B-AB1F-40B7B2853B7C-2621-0000017CC6A12B02_tmp_1440x.jpg?v=1542458417" alt="Marble Poker Cards | MIKOL"/>
 
 *First paragraph*
